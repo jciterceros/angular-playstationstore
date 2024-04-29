@@ -2,8 +2,11 @@
   position: relative; /* Deixa os componentes ficarem na frente dele */
   border: 3px solid #3e4357;
   border-radius: 10px;
-  width: 350px;
-  height: 500px;
+  /* width: 350px;
+  height: 500px; */
+
+  width: 250px;
+  height: 350px;
 
   display: flex;
   overflow: hidden;
