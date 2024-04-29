@@ -5,7 +5,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Santander FullStack AANGULAR / JAVA Bootcamp 2023
 
 <div align="center">
-<img alt="Desafio Angular Recriando Interface PlayStation Store - Santander Bootcamp 2023" title="Desafio Recriando Interface PlayStation Store - Santander Bootcamp 2023" width="650px" src="">
+<img alt="Desafio Angular Recriando Interface PlayStation Store - Santander Bootcamp 2023" title="Desafio Recriando Interface PlayStation Store - Santander Bootcamp 2023" width="650px" src="https://github.com/jciterceros/angular-playstationstore/blob/5101023e5e93a6fc60ddffaafb6eb457a71bd8fe/src/assets/Simulando%20PlayStation%20Store.PNG">
 </div>
 
 ## Development server
